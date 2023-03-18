@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shafakat Sowroar Arnob</h1>
+<h1 align="center">Helu 👋, I'm Shafakat Sowroar Arnob</h1>
 <h3 align="center">CSE Student at BRACU | Web Developer | Content Writer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Web Projects and ML/AI.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShafakatArnob](https://github.com/ShafakatArnob)
+- 👨‍💻 All of my projects are available at [github.com/ShafakatArnob](https://github.com/ShafakatArnob)
 
 - 💬 Ask me about **Python, JavaScript, React.js, Redux, Node.js, Express.js, MongoDB, MySQL.**
 
 - 📫 How to reach me **shafakatarnob98@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shafakat-arnob/](https://www.linkedin.com/in/shafakat-arnob/)
+- 📄 Know about my experiences [linkedin.com/in/shafakat-arnob/](https://www.linkedin.com/in/shafakat-arnob/)
 
 - ⚡ Fun fact **I cry over Bugs!**
 
