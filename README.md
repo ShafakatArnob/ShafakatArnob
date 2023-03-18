@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shafakatarnob98@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/shafakat-arnob/](https://www.linkedin.com/in/shafakat-arnob/)
+- 📄 Know about my experiences [linkedin.com/in/shafakat-arnob](https://www.linkedin.com/in/shafakat-arnob/)
 
 - ⚡ Fun fact **I cry over Bugs!**
 
