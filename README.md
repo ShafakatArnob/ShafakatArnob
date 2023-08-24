@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
 
-- 🔭 I’m currently working on [Multilingual Aggression & Misogyny Identification with Deep Learning and LIME.](https://github.com/ShafakatArnob/CSE431)
+- 🔭 I’m currently working on [Multilingual Aggression & Misogyny Identification with Deep Learning and LIME.](https://github.com/ShafakatArnob/Multilingual-Misogyny-Identification-Deep-Learning-LIME)
 
 - 🌱 I’m currently learning **ML/AI with Python, Pandas, Sklearn and more.**
 
