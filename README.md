@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bengali Misogyny Identification with Deep Learning and LIME.](https://github.com/ShafakatArnob/Multilingual-Misogyny-Identification-Deep-Learning-LIME)
 
-- 🌱 I’m currently learning **ML/AI with Python, Pandas, Sklearn and more.**
+- 🌱 I’m currently learning **Deep Learning.**
 
 - 👯 I’m looking to collaborate on **Web Projects and ML/AI.**
 
