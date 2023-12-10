@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shafakat Sowroar Arnob</h1>
-<h3 align="center">CSE Student at BRACU | Web Developer | Content Writer</h3>
+<h3 align="center">CSE Student at BracU | Machine Learning Engineer | Web Developer | Researcher</h3>
 <h4 align="center">An Enthusiastic, Responsible, and Enjoyable person to work with who takes sheer delight in both Leading and Working as a Team.</h4>
 
 
