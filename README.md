@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Machine Learning Competition - CUET ETE 2023.](https://github.com/ShafakatArnob/ML-Competition-CUET-ETE-2023)
 
-- 🌱 I’m currently learning **Deep Learning.**
+- 🌱 I’m currently learning [Google Data Analytics Professional Certificate.](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-- 👯 I’m looking to collaborate on **Web Projects and ML/AI.**
+- 👯 I’m looking to collaborate on **ML/DL/AI and Web Projects**
 
 - 👨‍💻 All of my projects are available at [github.com/ShafakatArnob](https://github.com/ShafakatArnob)
 
-- 💬 Ask me about **Python, JavaScript, React.js, Redux, Node.js, Express.js, MongoDB, MySQL.**
+- 💬 Ask me about **Python, ML/AI, JavaScript, React.js, Redux, Node.js, Express.js, MongoDB, MySQL.**
 
 - 📫 How to reach me **shafakatarnob98@gmail.com**
 
