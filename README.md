@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
 
-- 🔭 I’m currently working on [Machine Learning Competition - CUET ETE 2023.](https://github.com/ShafakatArnob/ML-Competition-CUET-ETE-2023)
+- 🔭 I’ve recently worked on [Machine Learning Competition - CUET ETE 2023.](https://github.com/ShafakatArnob/ML-Competition-CUET-ETE-2023)
 
 - 🌱 I’m currently learning [Google Data Analytics Professional Certificate.](https://www.coursera.org/professional-certificates/google-data-analytics)
 
