@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning [Google Data Analytics Professional Certificate.](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-- 👯 I’m looking to collaborate on **ML/DL/AI and Web Projects**
+- 👯 I’m looking to collaborate on **ML/DL/AI and Web Projects.**
 
 - 👨‍💻 All of my projects are available at [github.com/ShafakatArnob](https://github.com/ShafakatArnob)
 
