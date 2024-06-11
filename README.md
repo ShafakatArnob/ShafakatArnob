@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ShafakatArnob](https://github.com/ShafakatArnob)
 
-- 💬 Ask me about **Python, ML/AI, JavaScript, React.js, Redux, Node.js, Express.js, MongoDB, MySQL.**
+- 💬 Ask me about **ML/AI, Python, PostgreSQL, JavaScript, React.js, Redux, Node.js, MongoDB, MySQL.**
 
 - 📫 How to reach me **shafakatarnob98@gmail.com**
 
