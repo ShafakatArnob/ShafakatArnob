@@ -7,7 +7,7 @@
 
 - 🔭 I’ve recently worked on [Machine Learning Competition - CUET ETE 2023.](https://github.com/ShafakatArnob/ML-Competition-CUET-ETE-2023)
 
-- 🌱 I’m currently learning [Google Data Analytics Professional Certificate.](https://www.coursera.org/professional-certificates/google-data-analytics)
+- 🌱 I’m currently refreshing my memory on [Machine Learning Specialization by Andrew Ng [Stanford University | DeepLearning.AI]](https://www.coursera.org/specializations/machine-learning-introduction)
 
 - 👯 I’m looking to collaborate on **ML/DL/AI and Web Projects.**
 
