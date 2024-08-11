@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shafakat Sowroar Arnob</h1>
 <h3 align="center">Data Analyst @ BRAC IT | Machine Learning Engineer | Researcher | Web Developer</h3>
-<h4 align="center">An Enthusiastic, Responsible, and Enjoyable person to work with who takes sheer delight in both Leading and Working as a Team.</h4>
+<h4 align="center">Experienced in Machine Learning, Data Science, Data Analytics, Advanced Database with Data Pipeline,
+Statistical Data Analysis, Business Intelligence Data Tools and Web Application Development.</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
