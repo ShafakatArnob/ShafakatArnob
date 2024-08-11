@@ -8,7 +8,7 @@ Statistical Data Analysis, Business Intelligence Data Tools and Web Application 
 
 - 🔭 I’ve recently worked on [Machine Learning Competition - CUET ETE 2023.](https://github.com/ShafakatArnob/ML-Competition-CUET-ETE-2023)
 
-- 🌱 I’m currently refreshing my memory on [Machine Learning Specialization by Andrew Ng [Stanford University | DeepLearning.AI]](https://www.coursera.org/specializations/machine-learning-introduction)
+- 🌱 I’m currently refreshing my memory on [Machine Learning Specialization by Andrew Ng | Stanford University](https://www.coursera.org/specializations/machine-learning-introduction)
 
 - 👯 I’m looking to collaborate on **ML/DL/AI and Web Projects.**
 
