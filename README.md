@@ -6,7 +6,7 @@ Statistical Data Analysis, Business Intelligence Data Tools and Web Application 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
 
-- 🔭 I’ve recently worked on [Machine Learning Competition - CUET ETE 2023.](https://github.com/ShafakatArnob/ML-Competition-CUET-ETE-2023)
+- 🔭 I’ve recently worked on [Livestock Insurance Reporting Tool with Advanced PostgreSQL.]
 
 - 🌱 I’m currently refreshing my memory on [Machine Learning Specialization by Andrew Ng | Stanford University](https://www.coursera.org/specializations/machine-learning-introduction)
 
