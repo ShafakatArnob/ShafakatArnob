@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shafakat Sowroar Arnob</h1>
-<h3 align="center">Data Analyst @ BRAC IT | Machine Learning Engineer | Researcher | Web Developer</h3>
+<h3 align="center">Data Analyst @ BRAC IT | Machine Learning Engineer | Python Developer | Researcher</h3>
 <h4 align="center">Experienced in Machine Learning, Data Science, Data Analytics, Advanced Database with Data Pipeline,
 Statistical Data Analysis, Business Intelligence Data Tools and Web Application Development.</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
 
-- 🔭 I’ve recently worked on **Livestock Insurance Reporting Tool with Advanced PostgreSQL.**
+- 🔭 I’ve recently worked on **Livestock & Health Insurance Reporting Tool with Advanced PostgreSQL.**
 
 - 🌱 I’m currently refreshing my memory on [Machine Learning Specialization by Andrew Ng | Stanford University](https://www.coursera.org/specializations/machine-learning-introduction)
 
@@ -14,7 +14,7 @@ Statistical Data Analysis, Business Intelligence Data Tools and Web Application 
 
 - 👨‍💻 All of my projects are available at [github.com/ShafakatArnob](https://github.com/ShafakatArnob)
 
-- 💬 Ask me about **ML/AI, Python, PostgreSQL, JavaScript, React.js, Redux, Node.js, MongoDB, MySQL.**
+- 💬 Ask me about **ML/AI, Python, Django, PostgreSQL, JavaScript, React.Js, Redux, Node.Js, MySQL, MongoDB.**
 
 - 📫 How to reach me **shafakatarnob98@gmail.com**
 
