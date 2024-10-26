@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shafakat Sowroar Arnob</h1>
-<h3 align="center">Software Engineering (Data Analyst) @ BRAC IT | Data Scientist | ML Engineer | PostgreSQL | Django + ReactJs</h3>
-<h4 align="center">Experienced in Data Science, Data Analytics, Advanced SQL Database with Data Pipeline and Web Application Development with Django & React.Js</h4>
+<h3 align="center">Software Engineering (Data Analyst) @ BRAC IT | Data Scientist | ML Engineer | Advanced PostgreSQL | Python (Django) + React.Js</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
