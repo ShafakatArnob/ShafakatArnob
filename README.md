@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Insurance Analytics Web Dashboard App | Python (Django), React.Js, PostgreSQL](https://github.com/ShafakatArnob/Insurance-Analytics-Web-Dashboard-Postgres-Django-React)
 
-- 🌱 I’ve recently worked on **Database Design & Data Modeling (Star & Snowflake Schema with Fact & Dimensional Tables) for Livestock Insurance & Health Insurance Reporting Services**
+- 🌱 I’ve recently worked on **Database Design & Modeling (Star & Snowflake Schema with Fact & Dimensional Tables) for Livestock & Health Insurance Reporting**
 
 - 👯 I’m looking to collaborate on **ML/DL/AI and Web Projects.**
 
