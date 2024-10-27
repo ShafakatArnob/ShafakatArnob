@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
 
-- 🔭 I’ve recently worked on **Livestock & Health Insurance Reporting Tool with Advanced PostgreSQL.**
+- 🔭 I’m currently working on [Insurance Analytics Web Dashboard App | Python (Django), React.Js, PostgreSQL](https://github.com/ShafakatArnob/Insurance-Analytics-Web-Dashboard-Postgres-Django-React)
 
-- 🌱 I’m currently refreshing my memory on [Machine Learning Specialization by Andrew Ng | Stanford University](https://www.coursera.org/specializations/machine-learning-introduction)
+- 🌱 I’ve recently worked on **Database Design & Data Modeling (Star & Snowflake Schema with Fact & Dimensional Tables) for Livestock Insurance & Health Insurance Reporting Services**
 
 - 👯 I’m looking to collaborate on **ML/DL/AI and Web Projects.**
 
