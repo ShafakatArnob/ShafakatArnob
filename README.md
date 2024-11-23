@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
 
-- 🔭 I’m currently working on [Insurance Analytics Web Dashboard App | Python (Django), React.Js, PostgreSQL](https://github.com/ShafakatArnob/Insurance-Analytics-Web-Dashboard-Postgres-Django-React)
+- 🔭 I’m currently working on [A Collaborative Music App | Python (Django REST Framework), React.Js, MUI, PostgreSQL & Spotify API](https://github.com/ShafakatArnob/Collaborative-Music-App-Django-React-Postgres)
 
 - 🌱 I’ve recently worked on **Database Design & Modeling (Star & Snowflake Schema) for Livestock & Health Insurance Reporting**
 
