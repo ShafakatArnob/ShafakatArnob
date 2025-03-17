@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shafakat Sowroar Arnob</h1>
-<h3 align="center">Software Engineering (Data Analyst) @ BRAC IT | Data Scientist | ML Engineer | Advanced PostgreSQL | Python (Django) + React.Js</h3>
+<h3 align="center">Software Engineering (Data Analyst) @ BRAC IT | Data Engineer | ML Engineer | Advanced PostgreSQL | Python (Django) + React.Js</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
