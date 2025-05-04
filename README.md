@@ -30,17 +30,17 @@
 
 <h3 align="left">My Skills:</h3>
 
-✅ <u>**Data Engineering:**</u> Python, Pandas, SQL, Data Pipelines (ETL/ELT), Airflow, Airbyte, Data Migration, Data Warehouse (Star/Snowflake Schema), Database Design, Data Modeling, Table Partitioning, Script Scheduling, Git, GitHub, Data Grip, VS Code
+✅ **<u>Data Engineering:</u>** Python, Pandas, SQL, Data Pipelines (ETL/ELT), Airflow, Airbyte, Data Migration, Data Warehouse (Star/Snowflake Schema), Database Design, Data Modeling, Table Partitioning, Script Scheduling, Git, GitHub, Data Grip, VS Code
 
-✅ <u>**Data Analytics:**</u> SQL Optimization, Data Visualization, Data Cleaning, Statistical Analysis, Exploratory Data Analysis, Cohort Analysis, Trend Analysis, Power BI, Excel/Sheets, PowerPoint
+✅ **<u>Data Analytics:</u>** SQL Optimization, Data Visualization, Data Cleaning, Statistical Analysis, Exploratory Data Analysis, Cohort Analysis, Trend Analysis, Power BI, Excel/Sheets, PowerPoint
 
-✅ <u>**Databases:**</u> PostgreSQL, MySQL, MSSQL, MongoDB (noSQL), Pinecone (Vector DB)
+✅ **<u>Databases:</u>** PostgreSQL, MySQL, MSSQL, MongoDB (noSQL), Pinecone (Vector DB)
 
-✅ <u>**AI & Machine Learning:**</u> NumPy, Pandas, PyTorch, TensorFlow, Neural Networks, Transformers, Large Language Models (LLM), Retrieval Augmented Generation (RAG), Hyperparameter Tuning, Predictive Modeling, Classification, Clustering, Natural Language Processing (NLP)
+✅ **<u>AI & Machine Learning:</u>** NumPy, Pandas, PyTorch, TensorFlow, Neural Networks, Transformers, Large Language Models (LLM), Retrieval Augmented Generation (RAG), Hyperparameter Tuning, Predictive Modeling, Classification, Clustering, Natural Language Processing (NLP)
 
-✅ <u>**Development:**</u> Python (Django), JavaScript, React.Js, Redux, Node.Js, Express.Js, HTML, CSS, Styled Components, Framer Motion, MUI
+✅ **<u>Development:</u>** Python (Django), JavaScript, React.Js, Redux, Node.Js, Express.Js, HTML, CSS, Styled Components, Framer Motion, MUI
 
-✅ <u>**Soft Skill:**</u> Ownership, Leadership, Communication, Decision-Making, Critical Thinking, Problem Solving, Business Analysis
+✅ **<u>Soft Skill:</u>** Ownership, Leadership, Communication, Decision-Making, Critical Thinking, Problem Solving, Business Analysis
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafakatarnob&show_icons=true&locale=en&layout=compact" alt="shafakatarnob" /></p>
