@@ -30,7 +30,7 @@
 
 <h3 align="left">My Skills:</h3>
 
-✅ <ins>Data Engineering:</ins> Python, Pandas, SQL, Data Pipelines (ETL/ELT), Airflow, Airbyte, Data Migration, Data Warehouse (Star/Snowflake Schema), Database Design, Data Modeling, Table Partitioning, Script Scheduling, Git, GitHub, Data Grip, VS Code
+✅ <ins>**Data Engineering:**</ins> Python, Pandas, SQL, Data Pipelines (ETL/ELT), Airflow, Airbyte, Data Migration, Data Warehouse (Star/Snowflake Schema), Database Design, Data Modeling, Table Partitioning, Script Scheduling, Git, GitHub, Data Grip, VS Code
 
 ✅ <ins>Data Analytics:</ins> SQL Optimization, Data Visualization, Data Cleaning, Statistical Analysis, Exploratory Data Analysis, Cohort Analysis, Trend Analysis, Power BI, Excel/Sheets, PowerPoint
 
