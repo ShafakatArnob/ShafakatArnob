@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shafakat Sowroar Arnob</h1>
-<h3 align="center">Data Engineer @ BRAC IT | Data Analyst | ML Engineer | Advanced PostgreSQL | Python (Django) + React.Js</h3>
+<h3 align="center">Data Analyst @ BRAC IT | Data Engineer (ETL/ELT) | AI & ML Engineer (NLP) | Advanced Database (SQL/NoSQL/Vector) | Python (Django) + React.Js</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
 
-- 🔭 I’m currently working on [A Collaborative Music App | Python (Django REST Framework), React.Js, MUI, PostgreSQL & Spotify API](https://github.com/ShafakatArnob/Collaborative-Music-App-Django-React-Postgres)
+- 🔭 I’m currently working on [Books ETL Pipeline with Data Warehousing](https://github.com/ShafakatArnob/Books-ETL-Pipeline-with-Data-Warehousing)
 
 - 🌱 I’ve recently worked on **Database Design & Modeling (Star & Snowflake Schema) for Livestock & Health Insurance Reporting**
 
-- 👯 I’m looking to collaborate on **ML/DL/AI and Web Projects.**
+- 👯 I’m looking to collaborate on **Data Engineering & Analytics, AI & Machine Learning, and Web Projects.**
 
 - 👨‍💻 All of my projects are available at [github.com/ShafakatArnob](https://github.com/ShafakatArnob)
 
-- 💬 Ask me about **ML/AI, Python, Django, PostgreSQL, JavaScript, React.Js, Redux, Node.Js, MySQL, MongoDB.**
+- 💬 Ask me about **Python, AI/ML, Django, PostgreSQL, JavaScript, React.Js, Redux, Node.Js, MySQL, MongoDB.**
 
 - 📫 How to reach me **shafakatarnob98@gmail.com**
 
@@ -22,12 +22,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shafakat-arnob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shafakat-arnob/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/shafakatarnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shafakatarnob" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100015607007930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100015607007930" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_blurryface.x_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_blurryface.x_/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/shafakat_arnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shafakat_arnob" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shafakat_arnob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shafakat_arnob/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shafakat-arnob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shafakat-arnob/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/shafakatarnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shafakatarnob" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100015607007930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100015607007930" height="30" width="40" /></a>
+<a href="https://instagram.com/_blurryface.x_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_blurryface.x_/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shafakat_arnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shafakat_arnob" height="30" width="40" /></a>
+<a href="https://leetcode.com/shafakat_arnob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shafakat_arnob/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
