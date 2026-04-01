@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shafakat Sowroar Arnob</h1>
-<h3 align="center">Data Analyst @ BRAC IT | Data Engineer (ETL/ELT) | AI & ML Engineer (NLP) | Advanced Database (SQL/NoSQL/Vector) | Python (Django) + React.Js</h3>
+<h3 align="center">Data Engineer @ NEXT Ventures, FundedNext | Ex-BRAC IT | AWS Data Warehouse | ETL,ELT | Big Data Analytics | AI & ML Engineer (NLP) | Advanced Database (SQL, Vector, Graph) | Python (Django) + React.Js</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’ve recently worked on **Database Design & Modeling (Star & Snowflake Schema) for Livestock & Health Insurance Reporting**
 
-- 👯 I’m looking to collaborate on **Data Engineering & Analytics, AI & Machine Learning, and Web Projects.**
+- 👯 I’m looking to collaborate on **Data Engineering & Analytics, AI & Machine Learning, and Web Development Projects.**
 
 - 👨‍💻 All of my projects are available at [github.com/ShafakatArnob](https://github.com/ShafakatArnob)
 
@@ -30,13 +30,13 @@
 
 <h3 align="left">My Skills:</h3>
 
-✅ **<ins>Data Engineering:</ins>** Python, Pandas, SQL, Data Pipelines (ETL/ELT), Airflow, Airbyte, Data Migration, Data Warehouse (Star/Snowflake Schema), Database Design, Data Modeling, Table Partitioning, Script Scheduling, Data Grip, VS Code
+✅ **<ins>Data Engineering:</ins>** Python, Pandas, SQL, Data Pipelines (ETL/ELT), Data Migration (Airflow, Airbyte, AWS DMS), Data Warehouse (Star/Snowflake Schema), Data Lake (AWS S3), Database Design, Dimension Modeling (SCD 1/2), Table Partitioning, Script Scheduling, Git
 
-✅ **<ins>Data Analytics:</ins>** SQL Optimization, Data Visualization, Data Cleaning, Statistical Analysis, Exploratory Data Analysis, Cohort Analysis, Trend Analysis, Power BI
+✅ **<ins>Data Analytics:</ins>** SQL Optimization, Data Modeling, Data Visualization, Metabase, Power BI, Data Cleaning, Statistical Analysis, Exploratory Data Analysis, Cohort Analysis, Trend Analysis, Excel/Sheets, PowerPoint
 
-✅ **<ins>Databases:</ins>** PostgreSQL, MySQL, MSSQL, MongoDB (noSQL), Pinecone (Vector DB)
+✅ **<ins>Databases:</ins>** PostgreSQL, MySQL, MSSQL, AWS Redshift SQL (DWH), MongoDB (noSQL), pgvector, Pinecone (Vector DB)
 
-✅ **<ins>AI & Machine Learning:</ins>** NumPy, Pandas, PyTorch, TensorFlow, Neural Networks, Transformers, Large Language Models (LLM), Retrieval Augmented Generation (RAG), Hyperparameter Tuning, Predictive Modeling, Classification, Clustering, Natural Language Processing (NLP)
+✅ **<ins>AI & Machine Learning:</ins>** Large Language Models (LLM), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), LangChain, Hugging Face, PyTorch, TensorFlow, Transformers, Hyperparameter Tuning, Predictive Modeling, Classification
 
 ✅ **<ins>Development:</ins>** Python (Django), JavaScript, React.Js, Redux, Node.Js, Express.Js, HTML, CSS, Styled Components, Framer Motion, MUI
 
