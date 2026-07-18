@@ -23,7 +23,6 @@
 <a href="https://www.facebook.com/profile.php?id=100015607007930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100015607007930" height="30" width="40" /></a>
 <a href="https://instagram.com/_blurryface.x_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_blurryface.x_/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shafakat_arnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shafakat_arnob" height="30" width="40" /></a>
-<a href="https://leetcode.com/shafakat_arnob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shafakat_arnob/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Skills:</h3>
