@@ -4,17 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafakatarnob&label=Profile%20views&color=0e75b6&style=flat" alt="shafakatarnob" /> </p>
 
-- 🔭 I’m currently working on [Books ETL Pipeline with Data Warehousing](https://github.com/ShafakatArnob/Books-ETL-Pipeline-with-Data-Warehousing)
+- 🔭 I’m currently working on **End-to-End Data Pipeline Log Analyzer & Self-Healer AI Agent.**
 
-- 🌱 I’ve recently worked on **Database Design & Modeling (Star & Snowflake Schema) for Livestock & Health Insurance Reporting**
+- 🌱 I’ve recently worked on [E-Commerce ETL Pipeline & Data Warehousing with PySpark.](https://github.com/ShafakatArnob/End-to-End-E-Commerce-Data-Pipeline-Warehousing-with-PySpark)
 
 - 👯 I’m looking to collaborate on **Data Engineering & Analytics, AI & Machine Learning, and Web Development Projects.**
 
-- 👨‍💻 All of my projects are available at [github.com/ShafakatArnob](https://github.com/ShafakatArnob)
+- 📫 How to reach me: **shafakatarnob98@gmail.com**
 
-- 📫 How to reach me **shafakatarnob98@gmail.com**
-
-- 📄 Know about my experiences [linkedin.com/in/shafakat-arnob](https://www.linkedin.com/in/shafakat-arnob/)
+- 📄 Know about my experiences: [linkedin.com/in/shafakat-arnob](https://www.linkedin.com/in/shafakat-arnob/)
 
 - ⚡ Fun fact **I cry over Bugs!**
 
@@ -30,7 +28,7 @@
 
 <h3 align="left">My Skills:</h3>
 
-✅ **<ins>Data Engineering:</ins>** Python, Pandas, SQL, Data Pipelines (ETL/ELT), Data Migration (Airflow, Airbyte, AWS DMS), Data Warehouse (Star/Snowflake Schema), Data Lake (AWS S3), Database Design, Dimension Modeling (SCD 1/2), Table Partitioning, Script Scheduling, Git
+✅ **<ins>Data Engineering:</ins>** Python, Pandas, SQL, Data Pipelines (ETL/ELT), Data Migration (Airflow, Airbyte, AWS DMS), Data Warehouse (Star/Snowflake Schema), Data Lake (AWS S3), Data Processing (PySpark, In-Memory, Multi-Threading), Dimension Modeling (SCD 1/2), Database Design, Table Partitioning, Script Scheduling, Git
 
 ✅ **<ins>Data Analytics:</ins>** SQL Optimization, Data Modeling, Data Visualization, Metabase, Power BI, Data Cleaning, Statistical Analysis, Exploratory Data Analysis, Cohort Analysis, Trend Analysis, Excel/Sheets, PowerPoint
 
@@ -42,9 +40,5 @@
 
 ✅ **<ins>Soft Skill:</ins>** Ownership, Leadership, Communication, Decision-Making, Critical Thinking, Problem Solving, Business Analysis
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafakatarnob&show_icons=true&locale=en&layout=compact" alt="shafakatarnob" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafakatarnob&show_icons=true&locale=en" alt="shafakatarnob" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafakatarnob&" alt="shafakatarnob" /></p>
