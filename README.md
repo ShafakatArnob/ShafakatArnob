@@ -25,6 +25,8 @@
 <a href="https://codeforces.com/profile/shafakat_arnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shafakat_arnob" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">My Skills:</h3>
 
 ⚡ **<ins>Data Engineering:</ins>** Python, Pandas, SQL, Data Pipelines (ETL/ELT), Data Migration (Airflow, Airbyte, AWS DMS), Data Warehouse (Star/Snowflake Schema), Data Lake (AWS S3), Data Processing (PySpark, In-Memory, Multi-Threading), Dimension Modeling (SCD 1/2), Database Design, Table Partitioning, Script Scheduling, Git
@@ -33,11 +35,12 @@
 
 🛢️ **<ins>Databases:</ins>** PostgreSQL, MySQL, MSSQL, AWS Redshift SQL (DWH), MongoDB (noSQL), pgvector, Pinecone (Vector DB)
 
-🤖 **<ins>AI & Machine Learning:</ins>** Large Language Models (LLM), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), LangChain, Hugging Face, PyTorch, TensorFlow, Transformers, Hyperparameter Tuning, Predictive Modeling, Classification
+🤖 **<ins>AI / ML Engineering:</ins>** Large Language Models (LLM), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), LangChain, Hugging Face, PyTorch, TensorFlow, Transformers, Hyperparameter Tuning, Predictive Modeling, Classification
 
 </> **<ins>Development:</ins>** Python (Django), JavaScript, React.Js, Redux, Node.Js, Express.Js, HTML, CSS, Styled Components, Framer Motion, MUI
 
-🧠 **<ins>Soft Skill:</ins>** Ownership, Leadership, Communication, Decision-Making, Critical Thinking, Problem Solving, Business Analysis
+🧠 **<ins>Soft Skills:</ins>** Ownership, Leadership, Communication, Decision-Making, Critical Thinking, Problem Solving, Business Analysis
 
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafakatarnob&" alt="shafakatarnob" /></p>
