@@ -8,7 +8,7 @@
 
 - 🌱 I’ve recently worked on [E-Commerce ETL Pipeline & Data Warehousing with PySpark.](https://github.com/ShafakatArnob/End-to-End-E-Commerce-Data-Pipeline-Warehousing-with-PySpark)
 
-- 👯 I’m looking to collaborate on **Data Engineering & Analytics, AI & Machine Learning, and Web Development Projects.**
+- 👯 I’m looking to collaborate on **Data Engineering & Analytics, AI / ML Engineering, and Web App Development.**
 
 - 📫 How to reach me: **shafakatarnob98@gmail.com**
 
